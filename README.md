@@ -14,8 +14,9 @@ This project is a way for us, the CLTMelee TOs, to compile all of our tools, res
  - c
 
 ## Important Links
-[CLTMelee Start.gg Hub]()
-[CLTMelee Discord]()
-[CLTMelee Twitch]()
-[CLTMelee Twitter]()
+
+ - [CLTMelee Start.gg Hub]()
+ - [CLTMelee Discord]() 
+ - [CLTMelee Twitch]()
+ - [CLTMelee Twitter]()
 
